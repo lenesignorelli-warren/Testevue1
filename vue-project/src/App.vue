@@ -1,7 +1,7 @@
 <template>
  
-  <header></header>
-  <router-view/>
+  <header>RRRRRRR</header>
+ <router-link/>
 </template>
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
